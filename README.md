@@ -1,2 +1,2 @@
 # auth
-Flask y Pyrebase
+Flask y Supabase
